@@ -5,10 +5,10 @@
   "author": "Justin",
   "cover": "https://ih1.redbubble.net/image.1714552352.4179/st,small,507x507-pad,600x600,f8f8f8.jpg",
   "chapters": {
-    "1": {
+    "0": {
       "title": "Chapter 0 - Scrapped Chapter",
       "volume": "",
-      "last_updated": "1659229677",
+      "last_updated": "1659244067",
       "groups": {
         "Untitled Comic": [
           "https://drive.google.com/uc?export=view&id=1eF3-x5BQ8q7-O0hZsgIHkqmLdgcKwmHq",
@@ -18,10 +18,10 @@
         ]
       }
     },
-    "2": {
+    "1": {
       "title": "Chapter 1 - Ejfirm",
-      "volume": "",
-      "last_updated": "1659240962",
+      "volume": "1",
+      "last_updated": "1659229677",
       "groups": {
         "Untitled Comic": [
           "https://drive.google.com/uc?export=view&id=1bVqIGyUCrj7Uk72UXbARdR9D7InNTRQ6",
@@ -59,6 +59,41 @@
           "https://drive.google.com/uc?export=view&id=1Yc40klwk_eNEIG0mCRZ91x3ORngz1LyP",
           "https://drive.google.com/uc?export=view&id=1v4zXpLRmsqBWQMSRogTW47sGG8qD_ioz",
           "https://drive.google.com/uc?export=view&id=1t1WfhgLdF6uJdVKgrVHrTlhnSmaDlUfX"
+        ]
+      }
+    },
+    "2": {
+      "title": "Chapter 2 - Dinner",
+      "volume": "1",
+      "last_updated": "1659240962",
+      "groups": {
+        "Untitled Comic": [
+          "https://drive.google.com/uc?export=view&id=1gYq5vpyezPIwjq5agH0PFECfhekTx4af",
+          "https://drive.google.com/uc?export=view&id=1rvxO0llr9iMfcsLlrCCfyBnqYan6qmY4",
+          "https://drive.google.com/uc?export=view&id=1InfaUOe8hBwHCJ6NqC5woyGk290BDRT0",
+          "https://drive.google.com/uc?export=view&id=1M1eJeIZU5DoHcx65pTzl5QM2-y1ZG9X5",
+          "https://drive.google.com/uc?export=view&id=1yn0cVuc3gvRQzmNt1GHjDmg-OK1iIT7Z",
+          "https://drive.google.com/uc?export=view&id=1zY3jp9r7WKEAWMvJ1x9JbtH1myWyYAp9",
+          "https://drive.google.com/uc?export=view&id=1SLeVkOd7AUOsWBGLizzm4oNZLWfegpUy",
+          "https://drive.google.com/uc?export=view&id=1K5U36HdhdQbUkFZf_RohnJ_7kZ3Hfqb0",
+          "https://drive.google.com/uc?export=view&id=1yU0JNfqQjPy5jyeDMDI5l08bLAvUOS6Q",
+          "https://drive.google.com/uc?export=view&id=1keOHJTrxGn3e8dNKxLPrpBSbB-hczp1m",
+          "https://drive.google.com/uc?export=view&id=1WRoG8HS3-lI3puetJAabrky0EoqQmT29",
+          "https://drive.google.com/uc?export=view&id=1c4aYtz_eTsLxRfOCyOyC1uULNwV3SRHG",
+          "https://drive.google.com/uc?export=view&id=1Fvq0tZSDTRqwW3989g-pr5cHuZ_nE1lu",
+          "https://drive.google.com/uc?export=view&id=1d6PBM_0eDYNcYnjKDeL7Tj6y47AJNw_c",
+          "https://drive.google.com/uc?export=view&id=142vpaZIBmgwkUANatAJo09Ac3S9WcMF7",
+          "https://drive.google.com/uc?export=view&id=1-raI6_uJdICfBfN7ReXqSSAnmF5q-4jI",
+          "https://drive.google.com/uc?export=view&id=1cFbWb5q4AkhnTbXfNK_xbL3sd6PfOyoG",
+          "https://drive.google.com/uc?export=view&id=1YxuDtQlpAeobDl2R6F2FYu5ziEyv0EgK",
+          "https://drive.google.com/uc?export=view&id=1MDACeOBzQWdacmL9PIxGN7-wpYLAXAew",
+          "https://drive.google.com/uc?export=view&id=1RDzmYn_BoLfmsmKEJax7SEq0aXGEnTyh",
+          "https://drive.google.com/uc?export=view&id=1L_qzOQtoOaQHgsBheyTRQIGKk2s-OUf-",
+          "https://drive.google.com/uc?export=view&id=19O_0uzvzzTMlrsXsTeBvu1s5KHPRz4h8",
+          "https://drive.google.com/uc?export=view&id=1ym9SWqjdpxE7XYI4CihNHQ4PkV1lIQuB",
+          "https://drive.google.com/uc?export=view&id=1ZwEOaaduTKhys_BzaOkDQz4_EjmcIX_i",
+          "https://drive.google.com/uc?export=view&id=1DmJLeJhQQARNDRlL_RpfhvKmKTZ8Vpw8",
+          "https://drive.google.com/uc?export=view&id=1wXiYCaG68Ila19oYFezUrf7lQDsWCYhp"
         ]
       }
     }
